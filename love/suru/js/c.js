@@ -1,1 +1,1 @@
-export const CONFIG=Object.freeze({csrfURL:"signup.php?action=csrf",signupURL:"signup.php",storageKey:"signup-language",timeout:15e3,maxPayload:1e4});
+export const CONFIG = Object.freeze({ csrfURL: "signup.php?action=csrf", signupURL: "signup.php", storageKey: "signup-language", timeout: 15e3, maxPayload: 1e4 });

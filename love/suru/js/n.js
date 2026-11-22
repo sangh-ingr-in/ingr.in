@@ -1,0 +1,1 @@
+import { SignupApp } from "./u.js"; document.addEventListener("DOMContentLoaded", () => { const signup = new SignupApp(document); window.signupApp = signup; });
