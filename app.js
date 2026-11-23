@@ -11,4 +11,5 @@ const script = document.createElement("script");
           /***script.type = "text/javascript";***/
           /***script.crossOrigin = "anonymous";
           script.referrerPolicy = "no-referrer";***/
+document.head.appendChild(script);
 };
