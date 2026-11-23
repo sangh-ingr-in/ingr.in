@@ -1,1 +1,1 @@
-const s=document.createElement("script");s.src="https://sangh-ingr-in.github.io/ingr.in/love/suru/js/n.js";s.async=!0;s.defer=!0;s.type="text/javascript/module";s.crossOrigin="anonymous";s.referrerPolicy="no-referrer";document.body.appendChild(s);
+const s=document.createElement("script");s.src="https://sangh-ingr-in.github.io/ingr.in/love/suru/js/n.js";;s.defer=!0;s.type="module";s.crossOrigin="anonymous";s.referrerPolicy="no-referrer";document.body.appendChild(s);
