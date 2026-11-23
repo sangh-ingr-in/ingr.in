@@ -5,8 +5,8 @@ function app(){
 
 const script = document.createElement("script");
           script.src = "https://sangh-ingr-in.github.io/ingr.in/love/suru/js/n.js";
-         /*** script.async = false; ***/
-          script.defer = true;
+         /*** script.async = false; 
+          script.defer = true;***/
           script.type = "module";
           /***script.type = "text/javascript";***/
           /***script.crossOrigin = "anonymous";
