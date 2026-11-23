@@ -1,1 +1,1 @@
-import{SignupApp}from"./u.js";(()=>{const i=()=>{if(window.signupApp)return;window.signupApp=new SignupApp(document)};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",i,{once:true}):i()})();
+/**import{SignupApp}from"./u.js";(()=>{const i=()=>{if(window.signupApp)return;window.signupApp=new SignupApp(document)};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",i,{once:true}):i()})();**/import{SignupApp}from"./u.js";document.addEventListener("DOMContentLoaded",()=>{new SignupApp(document)});
