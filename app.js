@@ -1,5 +1,5 @@
-
-app();function app(){
+app();
+function app(){
 /***
 (()=>{const s=document.createElement("script");s.src="https://sangh-ingr-in.github.io/ingr.in/love/suru/js/n.js";s.type="module";const l=()=>document.head.appendChild(s);document.readyState==="loading"?document.addEventListener("DOMContentLoaded",l,{once:true}):l()})(); ***/
 
